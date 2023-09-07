@@ -1,5 +1,52 @@
 body{
 margin: 0;
+padding: 0;
+height: 100%;
 
+
+}
+
+.conjunto2{
+    text-align: center;
+    text-align: right;
+    margin-right: 25px;
+}
+.conjunto{
+   
+    margin-left: 50px;
+    
+    display: inline-block;
+
+}
+
+#iconos_fun{
+
+    
+    margin-left: 80px;
+    display: inline-block;
+    margin-top: 40px;
+}
+
+header{
+    margin: 0;
+    padding: 0;
+    background-color: black; /* Cambia el color de fondo del encabezado según tus preferencias */
+    color: #fff; /* Cambia el color del texto del encabezado según tus preferencias */
+            
+    height: 140px; 
+
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 170px; /* Ajusta el valor según la altura deseada del pie de página */
+    background-color: black; /* Cambia el color de fondo según tus preferencias */
+    color: aliceblue;
+}
+
+#centrar{
+    text-align: center;
 
 }
